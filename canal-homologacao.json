@@ -1,19 +1,18 @@
 {
   "schema": 2,
-  "versao": "10.4.3.18.7",
-  "versao_agente": "10.4.3.18.7",
+  "versao": "10.4.3.18.8",
+  "versao_agente": "10.4.3.18.8",
   "atualizacao_agente_necessaria": true,
   "reiniciar_servidor": false,
   "reiniciar_agentes": false,
-  "publicado_em": "2026-09-17T20:26:59.455Z",
+  "publicado_em": "2026-09-18T11:17:04.643Z",
   "notas": [
-    "Manual do Cliente incorporado ao instalador.",
-    "Botão Abrir manual em PDF corrigido.",
-    "Sino sem ação removido do Dashboard.",
-    "Canal separado de homologação implementado.",
-    "Melhorias no processo de build do Agente Legado."
+    "Correcao definitiva do botao Abrir manual em PDF.",
+    "Manual do Cliente copiado para local persistente antes da abertura.",
+    "Manual instalado preservado em C:\\ProgramData\\InvMaster\\Documentacao.",
+    "Eliminada a dependencia da pasta temporaria do instalador."
   ],
-  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.7-homologacao/Instalar-InvMaster-Servidor.exe",
-  "sha256": "996a238d9192086fab0083faa8b08d41dbabcaf99a5dbb1ba6ce07584360269e",
-  "assinatura": "z9l3GaBdLl0qN/zZv/EGp4BLDWg0iJFHQjKeKMtGYpzzLr6orhcVnOjPfWINqLfJ6N9z9w/gj2y/3EE/bupoBw=="
+  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.8-homologacao/Instalar-InvMaster-Servidor.exe",
+  "sha256": "acac622d1b47e870b9d51c48df86181d03c89be81f14f0410dd0a0c546d13cb5",
+  "assinatura": "+B2zjIAaBL3x34oWpmAb/NPnHnSi0M5y0czuo+uudw+3/hrh1Ht8cMPyphayxuh6P3k4VUq7T16J6JrvA9RRBw=="
 }
