@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "versao": "10.4.3.18.8",
-  "versao_agente": "10.4.3.18.8",
+  "versao": "10.4.3.18.9",
+  "versao_agente": "10.4.3.18.9",
   "atualizacao_agente_necessaria": true,
   "reiniciar_servidor": false,
   "reiniciar_agentes": false,
-  "publicado_em": "2026-09-18T11:17:04.643Z",
+  "publicado_em": "2026-09-18T17:55:39.348Z",
   "notas": [
-    "Correcao definitiva do botao Abrir manual em PDF.",
-    "Manual do Cliente copiado para local persistente antes da abertura.",
-    "Manual instalado preservado em C:\\ProgramData\\InvMaster\\Documentacao.",
-    "Eliminada a dependencia da pasta temporaria do instalador."
+    "O instalador agora mostra a versao que sera instalada.",
+    "Em atualizacoes, o instalador mostra a versao atual e a nova versao.",
+    "Manual do Cliente convertido para edicao documental generica.",
+    "Preservado o local persistente do manual em C:\\ProgramData\\InvMaster\\Documentacao."
   ],
-  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.8-homologacao/Instalar-InvMaster-Servidor.exe",
-  "sha256": "acac622d1b47e870b9d51c48df86181d03c89be81f14f0410dd0a0c546d13cb5",
-  "assinatura": "+B2zjIAaBL3x34oWpmAb/NPnHnSi0M5y0czuo+uudw+3/hrh1Ht8cMPyphayxuh6P3k4VUq7T16J6JrvA9RRBw=="
+  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.9-homologacao/Instalar-InvMaster-Servidor.exe",
+  "sha256": "93e465b4ab60dd8e2a76fa7625b7694f50f2319e6761e527a64ba8027eff8c4c",
+  "assinatura": "HMpKgZFD1X0dA7q9AFFr0Y2k4RKNFqI1TjkudhZEgkwosiOM6HjTNp3A1ctp1Ijl5cDg+8519tgg9q6saBH6Cw=="
 }
