@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "versao": "10.4.3.18.10",
-  "versao_agente": "10.4.3.18.10",
+  "versao": "10.4.3.18.11",
+  "versao_agente": "10.4.3.18.11",
   "atualizacao_agente_necessaria": true,
   "reiniciar_servidor": false,
   "reiniciar_agentes": false,
-  "publicado_em": "2026-09-21T20:01:08.153Z",
+  "publicado_em": "2026-09-24T00:22:57.664Z",
   "notas": [
-    "O Servidor passa a usar inicio automatico atrasado e recuperacao com tres novas tentativas apos 60 segundos.",
-    "Os instaladores dos Agentes moderno e legado agora exibem o icone do InvMaster.",
-    "Removido do Dashboard o atalho redundante Ver ativos.",
-    "Incluida a edicao revisada e generica do Manual do Cliente."
+    "Os Agentes moderno e legado passam a usar inicio automatico atrasado e tres recuperacoes apos 60 segundos.",
+    "A atualizacao do Agente local registra a nova versao somente depois de validar o executavel instalado.",
+    "A Dashboard passa a exibir a validade reconhecida da licenca abaixo da versao do InvMaster.",
+    "O download do Agente legado passa a apresentar retorno visual imediato ao administrador."
   ],
-  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.10-homologacao/Instalar-InvMaster-Servidor.exe",
-  "sha256": "617bbc8259a41ee590ad2aa0a6a542777bd9f4599f9bd0342df1e0fadef45703",
-  "assinatura": "HZ9CReJMB7WXJwQ/lWbMWkocZ4vTWeFBny/d3N2KwfFReY4OGzGa4M9rNA8tgclZbZeOafv5z1MkXYc8P/2tCA=="
+  "download_url": "https://github.com/n3kel/InvMaster-Releases/releases/download/v10.4.3.18.11-homologacao/Instalar-InvMaster-Servidor.exe",
+  "sha256": "0e3c5419de9bb62d60fcea6f9fb85293ffe82baf1b3ae22871395c7a93da5048",
+  "assinatura": "1VK6Kr1GKwB9iN7cGGi88bzMjlGhQ0ewLdxvonh/geRc+WjnJty90v+5xyq3a++4PWgf6yq2VYrlw+/tuRTkBg=="
 }
